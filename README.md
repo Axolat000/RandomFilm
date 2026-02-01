@@ -1,4 +1,4 @@
-# 🎬 Random Film™
+# 🎬 Random Film
 
 ![Project Status](https://img.shields.io/badge/Status-Live%20(Private)-success?style=for-the-badge)
 ![Security](https://img.shields.io/badge/Source-Closed--Source-red?style=for-the-badge)
@@ -25,7 +25,7 @@ Une page fluide pour le streaminge.
 
 ![Random Film Home](https://github.com/Axolat000/RandomFilm/blob/main/images/mainpage.png?raw=true)
 
-### 2. Purple Music™
+### 2. Purple Music
 Un clone de Spotify/Deezer, mais contrôlable à 100%.
 * **Features :** File d'attente dynamique, Upload de MP3 avec extraction automatique de cover/métadonnées, Playlists persistantes.
 * **Admin :** Gestion complète des fichiers et des utilisateurs.
