@@ -36,18 +36,6 @@ Un clone de Spotify/Deezer, mais contrôlable à 100%.
 
 ![Purple Music UI](https://github.com/Axolat000/RandomFilm/blob/main/images/purplemusic.png?raw=true)
 
-### 3. Steam|Cooked & Game Center
-Un generateur de manifest steam.
-* **Performance :** Capable de gérer des milliers de requêtes par jour sans sourciller (autrement dit MAL OPTI).
-
-![Steam Cooked](https://github.com/ton-pseudo/ton-repo/blob/main/image_4db9a5.jpg?raw=true)
-
-### 4. Outils & Expérimentations
-Un espace pour tester des concepts UX, du code "edgy" et des utilitaires.
-* **Gogole Drive :** Stockage de fichiers décentralisé (sur mon disque).
-* **DoxBin Mini :** Pastebin minimaliste pour le partage rapide de texte.
-* **Robux Generator & Merdouille :** Pages de test pour l'ingénierie sociale et les scripts JS.
-
 ---
 
 ## 🔒 Pourquoi "Closed Source" ?
