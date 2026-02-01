@@ -24,18 +24,17 @@ Lassé des interfaces lourdes et des algorithmes commerciaux, j'ai construit ma 
 ## 🚀 Modules Principaux
 
 ### 1. Random Film (Core)
-Une **Single Page Application (SPA)** fluide pour le streaming de ma bibliothèque locale.
+Une **Single Page Application (SPA)** fluide pour le streaminge.
 * **Fonctionnalité clé :** Navigation sans rechargement (`pushState`).
 
 ![Random Film Home](https://github.com/Axolat000/RandomFilm/blob/main/images/mainpage.png?raw=true)
-*(Note : Remplace ce lien par l'URL de ton image une fois uploadée)*
 
 ### 2. Purple Music™
 Un clone de Spotify/Deezer, mais contrôlable à 100%.
 * **Features :** File d'attente dynamique, Upload de MP3 avec extraction automatique de cover/métadonnées, Playlists persistantes.
 * **Admin :** Gestion complète des fichiers et des utilisateurs.
 
-![Purple Music UI](https://github.com/ton-pseudo/ton-repo/blob/main/image_4dae25.png?raw=true)
+![Purple Music UI](https://github.com/Axolat000/RandomFilm/blob/main/images/purplemusic.png?raw=true)
 
 ### 3. Steam|Cooked & Game Center
 Un generateur de manifest steam.
