@@ -27,7 +27,7 @@ Lassé des interfaces lourdes et des algorithmes commerciaux, j'ai construit ma 
 Une **Single Page Application (SPA)** fluide pour le streaming de ma bibliothèque locale.
 * **Fonctionnalité clé :** Navigation sans rechargement (`pushState`).
 
-![Random Film Home](https://github.com/ton-pseudo/ton-repo/blob/main/image_4e1762.png?raw=true)
+![Random Film Home](https://github.com/ton-pseudo/ton-repo/blob/main/images/mainpage?raw=true)
 *(Note : Remplace ce lien par l'URL de ton image une fois uploadée)*
 
 ### 2. Purple Music™
