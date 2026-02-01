@@ -4,7 +4,7 @@
 ![Security](https://img.shields.io/badge/Source-Closed--Source-red?style=for-the-badge)
 ![Tech](https://img.shields.io/badge/Stack-Full--Stack-blueviolet?style=for-the-badge)
 
-### ![Randomfilm](https://randomfilm.fr)
+### [Randomfilm](https://randomfilm.fr)
 
 > **Un écosystème Homelab personnel regroupant streaming vidéo, lecteur audio avancé, gestion de jeux et outils expérimentaux.**
 
