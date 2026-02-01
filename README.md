@@ -4,28 +4,22 @@
 ![Security](https://img.shields.io/badge/Source-Closed--Source-red?style=for-the-badge)
 ![Tech](https://img.shields.io/badge/Stack-Full--Stack-blueviolet?style=for-the-badge)
 
-> **Un écosystème Homelab personnel regroupant streaming vidéo, lecteur audio avancé, gestion de jeux et outils expérimentaux. Développé de A à Z.**
+> **Un écosystème Homelab personnel regroupant streaming vidéo, lecteur audio avancé, gestion de jeux et outils expérimentaux.**
 
 ---
-
-## 🌐 Le Concept
-
-**Random Film** n'est pas juste un site web. C'est un **Système d'Exploitation Web (WebOS)** personnel conçu pour centraliser ma vie numérique.
-Lassé des interfaces lourdes et des algorithmes commerciaux, j'ai construit ma propre solution : rapide, sombre, et sans compromis.
 
 ### 🛠️ Stack Technique
 * **Backend :** PHP 8 (Vanilla), SQLite3.
 * **Frontend :** HTML5, CSS3 (Variables & Thèmes dynamiques), JavaScript (SPA via History API).
 * **Architecture :** Monolithique modulaire, hébergement sur aaPanel.
-* **Performance :** 0 dépendance inutile, optimisation bas niveau.
+* **Performance :** 0 dépendance inutile.
 
 ---
 
 ## 🚀 Modules Principaux
 
 ### 1. Random Film (Core)
-Une **Single Page Application (SPA)** fluide pour le streaminge.
-* **Fonctionnalité clé :** Navigation sans rechargement (`pushState`).
+Une page fluide pour le streaminge. 
 
 ![Random Film Home](https://github.com/Axolat000/RandomFilm/blob/main/images/mainpage.png?raw=true)
 
