@@ -2,7 +2,7 @@
 
 ![Status](https://img.shields.io/badge/Status-Live-success?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-All_Rights_Reserved-red?style=for-the-badge)
-![Source](https://img.shields.io/badge/Source-Available-orange?style=for-the-badge)
+![Security](https://img.shields.io/badge/Source-Closed--Source-red?style=for-the-badge)
 
 ### [Randomfilm](https://randomfilm.fr)
 
